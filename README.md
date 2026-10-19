@@ -1,10 +1,8 @@
-# Hi, I'm a Microelectronics Student 👋
+# Microelectronics & VLSI Engineering Portfolio
 
-Welcome to my GitHub portfolio!
+Welcome to my technical portfolio. I am an undergraduate student in Microelectronics Science and Engineering at Yangzhou University, with an academic background in Electronics Engineering.
 
-I am a Microelectronics Science & Engineering student at **Yangzhou University**, with a previous academic background in Electronics Engineering. I am interested in semiconductor technology, integrated circuit design, and Very Large Scale Integration (VLSI).
-
-This repository serves as a collection of my academic projects, circuit simulations, technical documentation, and practical learning experiences. Through these projects, I aim to strengthen my understanding of electronic circuits, CMOS logic, digital systems, and semiconductor devices.
+My interests include semiconductor technology, CMOS circuit design, integrated circuits, and Very Large Scale Integration (VLSI). This portfolio documents my academic projects, circuit simulations, technical reports, and ongoing development in microelectronics engineering.
 
 ## 🎓 Academic Background
 
