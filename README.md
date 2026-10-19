@@ -31,12 +31,11 @@ My interests include semiconductor technology, CMOS circuit design, integrated c
 
 This section highlights my academic and technical work. Each project repository includes relevant design files, simulation results, technical explanations, or documentation where applicable.
 
-- **CMOS Inverter Analysis** — Circuit simulation and analysis of CMOS inverter behavior and voltage transfer characteristics.
-- **VLSI Full Adder Design** — Exploration of full-adder logic and transistor-level circuit design.
-- **Electronic Circuit Simulation** — Practical circuit modeling and analysis using LTspice.
-- **Semiconductor Device Studies** — Academic work and simulations related to semiconductor device characteristics.
+### 🔬 Microelectronics & VLSI Portfolio
 
-*Project links and additional details will be added as the portfolio develops.*
+Explore my academic laboratory projects and technical reports in microelectronics, CMOS circuit design, electronic circuit simulation, and VLSI.
+
+**[View My Microelectronics & VLSI Portfolio](https://github.com/PEXiN96/microelectronics-vlsi-portfolio)**
 
 ## 📚 Currently Developing
 
